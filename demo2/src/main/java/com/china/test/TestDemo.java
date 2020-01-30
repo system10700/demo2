@@ -9,4 +9,8 @@ public class TestDemo {
     public void show(){
         System.out.println("第一次修改");
     }
+
+    public void test(){
+        System.out.println("克隆之后第一次修改");
+    }
 }
